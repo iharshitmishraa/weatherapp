@@ -1,10 +1,10 @@
 # Weather Dashboard  
 
 ## Intern Details  
-Name: Kishankumar Yadav  
+Name: Harshit Mishra  
 Domain: Frontend Web Development  
-Intern ID: CT08DS10253  
-Duration: December 10, 2024 - January 10, 2025  
+Intern ID: CT08DHJ  
+Duration: December 12, 2024 - January 12, 2025  
 Company: CODTECH IT SOLUTIONS PVT. LTD  
 
 ## Project Overview  
